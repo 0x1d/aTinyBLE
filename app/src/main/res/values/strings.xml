@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TinyCircuits BLE Conduit</string>
+    <string name="app_name">BLE Conduit</string>
     <string name="controlActivity">Device Control</string>
-    <string name="ble_service">TinyCircuits BLE Service</string>
-    <string name="notify_service">TinyCircuits Notification Listener</string>
+    <string name="ble_service">BLE Service</string>
+    <string name="notify_service">Notification Listener</string>
 
     <string name="bt_not_supported">Bluetooth LE is not supported on your device.</string>
     <string name="bt_enabled">Bluetooth must be enabled to use this app.</string>
